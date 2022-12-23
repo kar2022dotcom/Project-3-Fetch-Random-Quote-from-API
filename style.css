@@ -1,0 +1,43 @@
+#btn{
+    position: absolute;
+    left: 40%;
+    top: 20%;
+    font-size: 30px;
+    cursor: pointer;
+    background-color: aqua;
+    font-weight: bold;
+    padding: 10px;
+    border: transparent;
+    white-space: nowrap;
+}
+
+/*if you add border without adding padding, you will see moving effect*/
+#btn:hover{
+    background-color: lightblue;
+    color: blueviolet;
+    border: 5px solid black;
+    padding: 5px;
+}
+
+#quote{
+    position: absolute;
+    top: 40%;
+    left: 25%;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+    width: 50%;
+    height: 100px;
+}
+
+#author{
+    position: absolute;
+    top: 50%;
+    left: 55%;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+}
+
