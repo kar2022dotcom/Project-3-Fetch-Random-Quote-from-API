@@ -1,1 +1,2 @@
-# Project-3-Fetch-Random-Quote-from-API
+Project idea came from this site - https://jsbeginners.com/javascript-projects-for-beginners/
+Credits to this website creator
