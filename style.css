@@ -8,7 +8,6 @@
     font-weight: bold;
     padding: 10px;
     border: transparent;
-    white-space: nowrap;
 }
 
 /*if you add border without adding padding, you will see moving effect*/
